@@ -17,21 +17,7 @@ module.exports =  {
     
     if(kufur) {
     const kufurler = [
-      
-      "amk",
-      "piç",
-      "yarrak",
-      "oç",
-      "göt",
-      "amq",
-      "yavşak",
-      "amcık",
-      "amcı",
-      "orospu",
-      "sikim",
-      "sikeyim",
-      "aq", 
-      "mk"
+    
          
     ]
     
