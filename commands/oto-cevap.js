@@ -8,13 +8,13 @@ module.exports = {
   options: [
     {
         name: "soru",
-        description: "Lütfen bir soru girin.",
+        description: "miloş",
         type: 3,
         required: true
     },
     {
       name: "cevap",
-      description: "Lütfen bir cevap girin.",
+      description: "sunucunun en ponçiği",
       type: 3,
       required: true
   },
